@@ -30,7 +30,7 @@ if(keyDown("UP")){
   stroke("black")
   fill("red")
  text("PRESS UP_ARROW KEY TO FEED DRAGO MILK", 120,100)
-
+text("FOOD STOCK : "+food,200,150);
 }
 
 function readstock(data){
